@@ -1,0 +1,15 @@
+nngp_cifar10/
+data/
+__pycache__
+*.npy
+*/models*
+*.pdf
+exact_nngp/*.png
+*.npz
+training_log.txt
+*.csv
+log_nn
+log_nngp
+log_nngp_landscape
+log_nn_landscape
+*.png
