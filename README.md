@@ -14,7 +14,7 @@ These estimates are introduced and analyzed in:
 # Installation
 
 
-You can install the environment via [this conda specification file](./environment).
+You can install the environment via [this conda specification file](./environment.yml).
 
 - You may also need to set path for tensorflow as `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/`
 
